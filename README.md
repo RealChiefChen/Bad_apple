@@ -1,4 +1,6 @@
 # Bad_apple
-Bad apple
+Its Bad Apple.
 
-Its bad apple I don't know what to say
+  here is the video I used for my testing I recomend using yt-dlp for getting the file yourself:
+  
+  ```https://www.youtube.com/watch?v=FtutLA63Cp8```
