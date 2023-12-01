@@ -7,8 +7,14 @@ If you find any issues please inform me. Thank you!
   
   ```https://www.youtube.com/watch?v=FtutLA63Cp8```
 
-Command line arguments you can give it are
 
+Run and then run the file:
+
+```cargo build --release```
+
+
+Command line arguments you can give it are:
+Arguments my be in any order
 
 ```video_size <number>```
 
@@ -17,3 +23,7 @@ Command line arguments you can give it are
 ```ending_frame <number>```
 
 ```find_video <path/to/video>```
+
+Example:
+
+```./bad_apple video_size 6 starting_frame 1567 find_video /home/<user>/Downloads/video.mp4```
