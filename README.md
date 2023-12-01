@@ -16,4 +16,4 @@ Command line arguments you can give it are
 
 ```ending_frame <number>```
 
-```find_video <number>```
+```find_video <path/to/video>```
