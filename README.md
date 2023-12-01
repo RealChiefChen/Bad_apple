@@ -8,9 +8,10 @@ If you find any issues please inform me. Thank you!
   ```https://www.youtube.com/watch?v=FtutLA63Cp8```
 
 
-Run and then run the file:
+Run:
 
 ```cargo build --release```
+after you should run the file
 
 
 Command line arguments you can give it are:
